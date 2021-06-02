@@ -1,1 +1,1 @@
-# Programa Números Pseudoaleatorios Java
+# Programa Números Pseudoaleatorios Multiplicativo Mixto
